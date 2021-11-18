@@ -1,0 +1,30 @@
+_repo: The-Beginnings-of-America-1607-1763-Voices-from-Americas-Past_66701
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Morris, Richard B. (Richard Brandon)
+    alias: Morris, Richard Brandon
+    birthdate: 1904
+    deathdate: 1989
+    gutenberg_agent_id: '51163'
+    url: http://www.gutenberg.org/2009/agents/51163
+    wikipedia: https://en.wikipedia.org/wiki/Richard_B._Morris
+  - agent_name: Woodress, James Leslie
+    birthdate: 1916
+    deathdate: 2011
+    gutenberg_agent_id: '51164'
+    url: http://www.gutenberg.org/2009/agents/51164
+description: ''
+gutenberg_issued: '2021-11-10'
+identifiers:
+  gutenberg: '66701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Beginnings of America, 1607-1763
+
+  Voices from America’s Past'
+url: http://www.gutenberg.org/ebooks/66701
