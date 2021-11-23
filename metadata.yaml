@@ -1,5 +1,8 @@
 _repo: The-Beginnings-of-America-1607-1763-Voices-from-Americas-Past_66701
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66701-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Morris, Richard B. (Richard Brandon)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '51164'
     url: http://www.gutenberg.org/2009/agents/51164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66701#The-Beginnings-of-America-1607-1763-Voices-from-Americas-Past
 gutenberg_issued: '2021-11-10'
 identifiers:
   gutenberg: '66701'
